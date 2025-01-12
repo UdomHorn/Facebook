@@ -129,14 +129,14 @@ p{
 .button-content{
   display: flex;
   justify-content: space-between;
-  font-size: 16px;
+  font-size: 12px;
   padding-bottom: 24px;
   
 }
 
 .btn-add{
   background-color:rgb(8,102,255);
-  padding: 8px 32px;
+  padding: 8px 16px;
   display:inline-block;
   border-radius: 8px;
   cursor: pointer;
