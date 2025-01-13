@@ -214,8 +214,10 @@ p{
 }
 .friends-find-friend{
   margin-top: 12px;
+  margin-bottom: 12px;
   display: flex;
   justify-content: space-between;
+  
 }
 h4{
   margin:0;
@@ -233,6 +235,7 @@ h4{
 }
 .find-fri{
   color:blue;
+  
 }
 .fri-pf-display{
   display: flex;
@@ -240,9 +243,9 @@ h4{
 }
 
 .fri-pro{
-  margin:16px 2px ;
+  padding:6px 6px ;
   cursor: pointer;
-  padding: 8px;
+  
 }
 .top{
   width:130px;
@@ -283,7 +286,7 @@ h4{
   align-items: center;
   justify-content: center;
   padding: 12px;
-  margin-top: 4px;
+  margin-top: 16px;
   border-radius: 4px;
   cursor: pointer;
 }
